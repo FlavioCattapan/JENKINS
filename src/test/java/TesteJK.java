@@ -10,6 +10,8 @@ public class TesteJK {
 	public void test() {
 		
 		Assert.assertTrue(true);
+		
+		// commit
 	}
 
 }
