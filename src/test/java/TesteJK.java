@@ -9,7 +9,7 @@ public class TesteJK {
 	@Test
 	public void test() {
 		
-		Assert.assertTrue(true);
+		Assert.assertTrue(false);
 		
 		// commit
 	}
